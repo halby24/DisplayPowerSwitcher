@@ -1,0 +1,10 @@
+{
+  "App1": {
+    "ApplicationName": "ディスプレイの電源切るやつ",
+    "FilePath": "DisplayManager.exe",
+    "WorkingDirectory": "C:\\ここは\\保存先に\\合わせて\\変えてください",
+    "Arguments": "OFF",
+    "StartupDialogMainText": "ディスプレイの電源をオフにしますか？",
+    "StartupDialogSubText": "Have a nice dream."
+  }
+}
