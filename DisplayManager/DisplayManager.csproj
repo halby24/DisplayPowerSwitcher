@@ -51,6 +51,7 @@
     </ItemGroup>
     <ItemGroup>
         <Content Include="Launcher.example.json"/>
+        <Content Include="README.md"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
 </Project>
